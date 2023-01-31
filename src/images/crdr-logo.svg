@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="700px" height="700px" viewBox="0 0 700 700" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0" y1="0" x2="1" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#7BCF42" />
+      <stop offset="1" stop-color="#97F562" />
+    </linearGradient>
+    <linearGradient x1="0" y1="1" x2="1" y2="0" id="gradient_2">
+      <stop offset="0" stop-color="#52D230" />
+      <stop offset="1" stop-color="#B5F193" />
+    </linearGradient>
+    <linearGradient x1="0" y1="0" x2="1" y2="1" id="gradient_3">
+      <stop offset="0" stop-color="#AEF69B" />
+      <stop offset="1" stop-color="#97F562" />
+    </linearGradient>
+    <path d="M0 0L700 0L700 700L0 700L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="noun-menu-1119465">
+    <path d="M0 0L700 0L700 700L0 700L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <g id="Group" transform="translate(215.879 240.20001)">
+        <path d="M16.801 33.602L184.241 33.602C193.76 33.602 201.042 26.3208 201.042 16.801C201.042 7.28149 193.761 0 184.241 0L16.801 0C7.28149 0 0 7.2812 0 16.801C0 26.3205 7.2812 33.602 16.801 33.602L16.801 33.602Z" transform="translate(3.0517578E-05 -7.6293945E-06)" id="Shape" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+        <path d="M183.681 0L16.801 0C7.28149 0 0 7.28119 0 16.801C0 26.3205 7.2812 33.602 16.801 33.602L184.241 33.602C193.76 33.602 201.042 26.3208 201.042 16.801C201.038 7.28149 193.198 0 183.679 0L183.681 0Z" transform="translate(0 185.95999)" id="Shape" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+        <path d="M250.881 0L16.801 0C7.28149 0 0 7.28119 0 16.801C0 26.3208 7.2812 33.602 16.801 33.602L251.441 33.602C260.961 33.602 268.242 26.3208 268.242 16.801C268.238 7.28149 260.398 0 250.879 0L250.881 0Z" transform="translate(1.5258789E-05 93)" id="Shape" fill="url(#gradient_3)" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

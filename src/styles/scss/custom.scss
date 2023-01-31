@@ -1,0 +1,104 @@
+/* CUSTOM-COLORS */
+$crdrPrimary: #7BCF42;
+$footer-pr-color: #777;
+
+/* make the customizations */
+/*$theme-colors: (
+    "info": tomato,
+    "danger": teal,
+    "primary": $crdrPrimary,
+
+    "crdr": #7BCF42,
+    "footerprcolor": $footer-pr-color,
+);*/
+
+$white: #ffffff;
+/* GOOD COLOR */
+$theme-colors: (
+    "light":      #f9dada,
+    "dark":       #070000,
+    "primary":    #00c780,
+    "secondary":  #009758,
+    "info":       #5cbe7d,
+    "accent1":    #712f44,
+    "accent2":    #9e3145,
+    "accent3":    #c6a2a8,
+    "success":    #00b42c,
+    "warning":    #f9c800,
+    "danger":     #f90046,
+);
+/*======OTHERS 
+
+$theme-colors: (
+    "light":      #8c79f2,
+    "dark":       #020000,
+    "primary":    #005608,
+    "secondary":  #3e8519,
+    "info":       #89cfd4,
+    "accent1":    #222a15,
+    "accent2":    #455e20,
+    "accent3":    #ba71e3,
+    "success":    #00a20c,
+    "warning":    #f6c200,
+    "danger":     #f10049,
+);
+
+/*
+
+THUMBS UP
+
+$theme-colors: (
+    "light":      #e6f3e8,
+    "dark":       #000401,
+    "primary":    #1f514b,
+    "secondary":  #008e7f,
+    "info":       #2b7c69,
+    "accent1":    #ea5433,
+    "accent2":    #ec8773,
+    "accent3":    #365bb3,
+    "success":    #00a841,
+    "warning":    #f0c700,
+    "danger":     #f50038,
+);
+
+
+$theme-colors: (
+    "light":      #dcddd8,
+    "dark":       #595c61,
+    "primary":    #005a3b,
+    "secondary":  #00945c,
+    "info":       #37c668,
+    "accent1":    #e62628,
+    "accent2":    #e6474b,
+    "accent3":    #f05a5e,
+    "success":    #00b02e,
+    "warning":    #f7c700,
+    "danger":     #f80044,
+);*/
+
+
+
+
+
+/*$theme-colors: (
+    "light":      #faecd9,
+    "dark":       #000001,
+    "primary":    #168c7f,
+    "secondary":  #298a7d,
+    "info":       #5ea793,
+    "accent1":    #032b1e,
+    "accent2":    #137162,
+    "accent3":    #94c3ae,
+    "success":    #0da943,
+    "warning":    #f0c70d,
+    "danger":     #f5053a,
+);*/
+
+.footer-icons {
+    color: $footer-pr-color;
+}
+
+// $body-bg: #000;
+
+/* import bootstrap to set changes */
+@import '~bootstrap/scss/bootstrap';
