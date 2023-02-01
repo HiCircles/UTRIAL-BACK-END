@@ -1,7 +1,7 @@
 {
   "name": "crdr-web-app",
   "version": "1.0.0",
-  "description": " PoC for a Pharmacy Supply and Retail SaaS",
+  "description": " PoC for a Clinical trials",
   "main": "index.js",
   "author": "Technovate LTD.",
   "private": true,
